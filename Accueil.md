@@ -2,7 +2,7 @@
 
 ## Ici, vous pourrez avoir des petits récapitulatifs de toutes les avancées du serveur, avec des tags pour les MàJ, les Bots et nouvelles fonctionnalitées !
 
-__1. Présentation du serveur__
+__1. Présentation du serveur__\n
 📀NSC CREATE est un serveur de __services créations serveurs__. Ici, vous pourrez commander vos serveurs, mais également parler, rigoler ou interragir avec nos bots !
 
 __2. Pourquoi venir sur ce serveur__
