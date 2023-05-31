@@ -36,9 +36,12 @@ Vous pouvez également utiliser nos bots fun pour s'amuser ! Jeux d'histoires, q
 
 __5. Liens utiles__
 
-Contacter l'owern par mail : ``contact.wolfsay@gmail.com``
+Contacter l'owern par mail : `contact.wolfsay@gmail.com`
+
 Contacter l'owern pas MP : [Contacter par MP](https://discord.com/channels/@me/1015312503732961320)
+
 Vernir sur le serveur : [Join](https://discord.gg/DEXSrDxN4F)
+
 Visiter le site officiel : [Visiter](https://642d7d83d3928.site123.me/)
 
 Bonne journée !
